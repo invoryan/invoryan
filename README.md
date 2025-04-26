@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Apasionado+por+la+tecnolog%C3%ADa;Desarrollador+Full+Stack+;Resolutivo%2C+creativo+y+%C3%A9tico;Desarrollador+competitivo;Siempre+aprendiendo+nuevas+cosas" alt="Typing SVG" />
 </p>
 <h2 >
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50" align="middle"> Sobre mi
+  <img src="Assets\about_me.gif" width="50" align="middle"> Sobre mi
 </h2>
 <br>
 
