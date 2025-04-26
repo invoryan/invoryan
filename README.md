@@ -95,7 +95,21 @@
     ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
 <br>
+<h2 >
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAzOWh3N2k3anF4eXNiNGl0NjNlM3J1OWp0ZjNlcWhheGo3OW0zdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0ZPkxtbBrLvpNkPu1v/giphy.gif" width="50" align="middle"> Contáctame
+</h2>
+<br>
+<div align="center">
+
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51992450983)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-hurtado-delgado-47220a314/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanhurtadodelgado@gmail.com)
+</div>
 
 -----
+<div align="center">
 
+  <img width="1000" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMwb2dqMndyMmhlY2FmMndyeThzcWI2a2lzaWpmbWNkd2VqcjJzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif">
+
+</div>
 <br>
