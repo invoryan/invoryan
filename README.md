@@ -16,7 +16,7 @@
 - <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/402157/mobile-phone.svg"> Desarrollador de `apps móviles` | <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/396567/globe-with-meridians.svg"> `Web` | <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/396286/desktop-computer.svg"> `Escritorio`
 - <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/398226/rocket.svg"> Apasionado por crear soluciones tecnológicas funcionales y escalables
 - <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/396606/handshake.svg"> Actualmente en búsqueda de una nueva `oportunidad laboral`.
-- <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/406827/page-facing-up.svg"> Este es [MI CV](http://micv).
+- <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/406827/page-facing-up.svg"> Este es [MI CV](https://drive.google.com/file/d/1TBwg9RkrBTm7HqtTsBBv6biDt2_j8o7A/view?usp=sharing).
 - <img width="25" height="25" align="top" src="https://www.svgrepo.com/show/407500/sparkles.svg"> Visita [Mi Portafolio](https://mi_website) y conoce mi trabajo.
 <br><br>
 
